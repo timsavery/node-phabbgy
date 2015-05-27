@@ -15,7 +15,7 @@
     "conduit"
   ],
   "author": "Tim Savery <tim.savery@gmail.com> (https://github.com/timsavery)",
-  "license": "WTFPL",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/timsavery/node-phabby/issues"
   },
