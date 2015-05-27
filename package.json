@@ -1,0 +1,26 @@
+{
+  "name": "phabby",
+  "version": "1.0.0",
+  "description": "Simple Phabricator API wrapper.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "./node_modules/jshint/bin/jshint *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timsavery/node-phabby.git"
+  },
+  "keywords": [
+    "phabricator",
+    "conduit"
+  ],
+  "author": "Tim Savery <tim.savery@gmail.com> (https://github.com/timsavery)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/timsavery/node-phabby/issues"
+  },
+  "homepage": "https://github.com/timsavery/node-phabby",
+  "devDependencies": {
+    "jshint": "^2.7.0"
+  }
+}
